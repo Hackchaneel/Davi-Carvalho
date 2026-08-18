@@ -18,13 +18,12 @@
 
 ## 🧭 Sobre mim
 
-Estudante de Ciência da Computação, com foco no desenvolvimento de uma base sólida em lógica de programação, estruturas de dados e boas práticas de desenvolvimento de software.
+Me chamo Davi Carvalho Macedo atualmente cursando Ciência da Computação, com foco no desenvolvimento de uma base sólida em lógica de programação, estruturas de dados e boas práticas de desenvolvimento de software. Tenho interesse em realizar mais projetos aqui — por isso documento meu progresso em artigos e compartilho os projetos que desenvolvo.
 
-- 🔭 Atualmente estudando **[o que estiver vendo agora — ex: estruturas de dados, POO]**
+- 🔭 Atualmente estudando **[Modelagem de Banco de Dados, algorítmos e pensamento computacional.]**
 - 🌱 Aprendendo na prática através de projetos pessoais e exercícios
 - 📝 Documentando meu progresso através de artigos técnicos
 - 💬 Aberto a conversar sobre programação, projetos e oportunidades
-- ⚡ Fun fact: **[algo pessoal e curto — opcional, humaniza o perfil]**
 
 <br>
 
