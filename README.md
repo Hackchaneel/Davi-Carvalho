@@ -196,31 +196,6 @@ Acredito que desenvolvimento de software é um processo contínuo de aprendizado
 
 <br>
 
-## 📊 Estatísticas do GitHub
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hackchaneel&show_icons=true&theme=default&include_all_commits=true&count_private=true&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hackchaneel&layout=compact&langs_count=8&theme=default&hide_border=true" />
-</p>
-
-<br>
-
-## 🔥 Sequência de contribuições
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Hackchaneel&theme=default&hide_border=true" />
-</p>
-
-<br>
-
-## 🐍 Minhas contribuições
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Hackchaneel/Hackchaneel/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
-
-<br>
-
 ## 📫 Entre em contato
 
 <p align="center">
@@ -241,4 +216,3 @@ Acredito que desenvolvimento de software é um processo contínuo de aprendizado
 <p align="center">
   ⭐ Se algum projeto te interessar, fique à vontade para explorar os repositórios!
 </p>
-
