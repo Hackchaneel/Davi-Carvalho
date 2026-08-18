@@ -210,7 +210,7 @@ Acredito que desenvolvimento de software é um processo contínuo de aprendizado
 <br>
 
 <p align="center">
-  <i>“Transformando conhecimento em projetos, um commit de cada vez.”</i>
+  <i>“Quando minha criatividade entra em ação o impossível não existe.”</i>
 </p>
 
 <p align="center">
