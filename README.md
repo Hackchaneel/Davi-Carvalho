@@ -15,7 +15,7 @@
 
 ## 🧭 Sobre mim
 
-Estudante de Ciência da Computação, com foco no desenvolvimento de uma base sólida em lógica de programação, estruturas de dados e boas práticas de desenvolvimento de software. Tenho interesse em aprender na prática — por isso documento meu progresso em artigos e compartilho os projetos que desenvolvo.
+Me chamo Davi Carvalho tenho 18 anos atualmente cursando Ciência da Computação, com foco no desenvolvimento de uma base sólida em lógica de programação, estruturas de dados e boas práticas de desenvolvimento de software. Tenho interesse em realizar mais projetos — por isso documento meu progresso em artigos e compartilho os projetos que desenvolvo.
 
 <br>
 
