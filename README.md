@@ -19,7 +19,7 @@
 
 ## 🧑‍💻 Sobre mim
 
-Me chamo **Davi Carvalho** atualmenet cursando **Ciência da Computação** e desenvolvedor em formação, interessado principalmente em **desenvolvimento de software, Backend, APIs e aplicações Web**.
+Me chamo **Davi Carvalho** atualmentecursando **Ciência da Computação** e desenvolvedor em formação, interessado principalmente em **desenvolvimento de software, Backend, APIs e aplicações Web**.
 
 Tenho buscado transformar o conhecimento adquirido durante a graduação em **projetos práticos**, trabalhando não apenas com programação, mas também com organização de código, arquitetura, bancos de dados, integração entre sistemas e desenvolvimento de soluções completas.
 
