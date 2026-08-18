@@ -9,13 +9,22 @@
   <a href="https://dev.to/seu-usuario-devto">
     <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" />
   </a>
+  <a href="mailto:seu-email@exemplo.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
 <br>
 
 ## 🧭 Sobre mim
 
-Me chamo Davi Carvalho tenho 18 anos atualmente cursando Ciência da Computação, com foco no desenvolvimento de uma base sólida em lógica de programação, estruturas de dados e boas práticas de desenvolvimento de software. Tenho interesse em realizar mais projetos — por isso documento meu progresso em artigos e compartilho os projetos que desenvolvo.
+Estudante de Ciência da Computação, com foco no desenvolvimento de uma base sólida em lógica de programação, estruturas de dados e boas práticas de desenvolvimento de software.
+
+- 🔭 Atualmente estudando **[o que estiver vendo agora — ex: estruturas de dados, POO]**
+- 🌱 Aprendendo na prática através de projetos pessoais e exercícios
+- 📝 Documentando meu progresso através de artigos técnicos
+- 💬 Aberto a conversar sobre programação, projetos e oportunidades
+- ⚡ Fun fact: **[algo pessoal e curto — opcional, humaniza o perfil]**
 
 <br>
 
@@ -40,20 +49,16 @@ Me chamo Davi Carvalho tenho 18 anos atualmente cursando Ciência da Computaçã
 
 <br>
 
-## 🌱 Em desenvolvimento
-
-- Aprofundando conhecimentos em lógica de programação e estruturas de dados
-- Praticando resolução de exercícios e pequenos projetos
-- Buscando primeira experiência prática em desenvolvimento (estágio/projeto open source)
-
-<br>
-
 ## 📌 Projetos em destaque
 
-| Projeto | Descrição | Stack |
-|---|---|---|
-| [nome-do-projeto](link) | Breve descrição do que ele faz | Python |
-| [nome-do-projeto-2](link) | Breve descrição do que ele faz | JavaScript |
+<p align="center">
+  <a href="https://github.com/Hackchaneel/nome-do-projeto">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hackchaneel&repo=nome-do-projeto&theme=default&hide_border=true" />
+  </a>
+  <a href="https://github.com/Hackchaneel/nome-do-projeto-2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hackchaneel&repo=nome-do-projeto-2&theme=default&hide_border=true" />
+  </a>
+</p>
 
 <br>
 
@@ -67,10 +72,18 @@ Me chamo Davi Carvalho tenho 18 anos atualmente cursando Ciência da Computaçã
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hackchaneel&show_icons=true&theme=default&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hackchaneel&layout=compact&theme=default&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Hackchaneel&show_icons=true&theme=default&hide_border=true" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hackchaneel&layout=compact&theme=default&hide_border=true" width="49%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hackchaneel&theme=default&hide_border=true" />
 </p>
 
 <br>
 
 <p align="center"><i>Aberto a conversas sobre tecnologia, projetos e oportunidades.</i></p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Hackchaneel&style=flat&color=blue" alt="Visitor count" />
+</p>
